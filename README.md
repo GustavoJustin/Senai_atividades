@@ -1,1 +1,1 @@
-# Senai_atividades
+Nesse repositório, será colocado totas as atividades feitas na aula do senai
